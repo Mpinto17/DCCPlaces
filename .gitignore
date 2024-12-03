@@ -1,0 +1,7 @@
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+.idea/
+project/project_web_app/migrations/0001_initial.py
