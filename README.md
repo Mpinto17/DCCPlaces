@@ -21,7 +21,18 @@ ingeniería de software.
 
 ## Screenshots
 
+### Perfil de usuario
+![Perfil](screenshots%2Fprofile.png)
+![profile2.png](screenshots%2Fprofile2.png)
 
+### Busquedas por nombre de sala y fecha
+![search.png](screenshots%2Fsearch.png)
+![search2.png](screenshots%2Fsearch2.png)
+
+### Vistas de administrador
+![view-bookings.png](screenshots%2Fview-bookings.png)
+![edit-booking.png](screenshots%2Fedit-booking.png)
+![edit.png](screenshots%2Fedit.png)
 
 ## Requisitos de instalación
 
