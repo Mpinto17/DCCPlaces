@@ -74,7 +74,7 @@ python manage.py runserver
 ## Estructura del Proyecto
 
 ```bash
-2024-2-CC4401-grupo-5/
+DCCPlaces
 ├── project/                          # Código y configuración del proyecto
 │   ├── project/                      # Configuración principal del proyecto Django
 │   ├── project_web_app/              # Aplicación web principal
@@ -111,7 +111,6 @@ python manage.py runserver
 │   │   └── views.py                  # Vistas de la aplicación
 │   ├── db.sqlite3                    # Base de datos SQLite
 │   └── manage.py                     # Script de gestión de Django
-├── venv/                             # Entorno virtual de Python
 ├── .gitignore                        # Archivos ignorados por Git
 ├── README.md                         # Documentación del proyecto
 └── requirements.txt                  # Dependencias del proyecto
